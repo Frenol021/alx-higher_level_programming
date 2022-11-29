@@ -1,3 +1,3 @@
 -- full descrption
 
-SHOW FULL COLUMNS FROM first_table
+SHOW FULL COLUMNS FROM first_table;
